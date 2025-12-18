@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+
+# SQL
+*.log
+*.sqlite
+*.db
+
+# PowerShell / Batch
+*.ps1xml
+*.psc1
+*.psd1
+*.psm1
+*.bat
+*.cmd
+*.log
+
+# Node / NPM
+node_modules/
+
+# Misc
+*.tmp
+*.swp
