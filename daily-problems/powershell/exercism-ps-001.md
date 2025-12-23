@@ -33,7 +33,7 @@ Hello, World!
         - `.SYNOPSIS`: It provides a one-line explanation about what the function does.
         - `.DESCRIPTION`: Gives a more detailed explanation about what the function does.
         - `.EXAMPLE`: Shows an example of how to run thee function and sometimes a sample output too.
-    - There exists a `Get-Help` function that will fetch show this metadata info when it's used as follows in the terminal:
+    - There exists a `Get-Help` function that will fetch and show this metadata info when it's used as follows in the terminal:
     ```powershell
     Get-Help Get-HelloWorld
     ```
@@ -51,5 +51,5 @@ echo "Hello, World!"
 ```
 Hello, World!
 ```
-- But, in Exercism's evaluator only wants me to return the string "Hello, World!" for a function `Get-HelloWorld` they already defined, similar to the [Exercise 001 in Java](https://github.com/praharshidha-anandan/learning-log/blob/main/daily-problems/java/exercism-java-001.md).
+- But Exercism's evaluator only wants me to return the string "Hello, World!" for a function `Get-HelloWorld` they already defined, similar to the [Exercise 001 in Java](https://github.com/praharshidha-anandan/learning-log/blob/main/daily-problems/java/exercism-java-001.md).
 
