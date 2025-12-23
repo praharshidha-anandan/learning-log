@@ -52,4 +52,3 @@ echo "Hello, World!"
 Hello, World!
 ```
 - But Exercism's evaluator only wants me to return the string "Hello, World!" for a function `Get-HelloWorld` they already defined, similar to the [Exercise 001 in Java](https://github.com/praharshidha-anandan/learning-log/blob/main/daily-problems/java/exercism-java-001.md).
-
